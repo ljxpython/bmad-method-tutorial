@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp add:*)",
+      "Bash(claude mcp:*)",
+      "mcp__BMAD-METHOD-Docs__fetch_BMAD_METHOD_documentation",
+      "mcp__BMAD-METHOD-Docs__search_BMAD_METHOD_documentation",
+      "mcp__BMAD-METHOD-Docs__search_BMAD_METHOD_code",
+      "mcp__BMAD-METHOD-Docs__fetch_generic_url_content",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
