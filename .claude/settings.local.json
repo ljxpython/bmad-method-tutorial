@@ -9,7 +9,9 @@
       "mcp__BMAD-METHOD-Docs__fetch_generic_url_content",
       "Bash(mkdir:*)",
       "Bash(mv:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
